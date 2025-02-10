@@ -4,3 +4,7 @@
 
 
 This is the PyTorch implementation for CATNet. We build it based on TEP (https://github.com/JingZhang617/EBMGSOD).
+
+
+## Saliency Maps
+Results of our model on benchmark datasets(DUTS, DUT-OMRON, ECSSD, PASCAL-S, HKU-IS, SOD, MSRA-B, MSRA-10K) can be found:

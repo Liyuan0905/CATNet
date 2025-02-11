@@ -8,3 +8,5 @@ This is the PyTorch implementation for CATNet. We build it based on TEP (https:/
 
 ## Saliency Maps
 Results of our model on benchmark datasets(DUTS, DUT-OMRON, ECSSD, PASCAL-S, HKU-IS, SOD, MSRA-B, MSRA-10K, THUR15K) can be found:
+[Baidu disk](https://pan.baidu.com/s/1IEGrpVX8J7lvhjOWeEnDGw 提取码: u2dm)
+[Google drive](https://drive.google.com/drive/folders/1vjrYfkD6nj0fDIq7c2wwbtHh1hOZg7_c?usp=drive_link)

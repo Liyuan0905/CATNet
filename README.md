@@ -6,6 +6,14 @@
 This is the PyTorch implementation for CATNet. We build it based on TEP (https://github.com/JingZhang617/EBMGSOD).
 
 
+## Train Model
+
+## Test Model
+
+## Trained Model
+
+
+
 ## Saliency Maps
 Results of our model on benchmark datasets(DUTS, DUT-OMRON, ECSSD, PASCAL-S, HKU-IS, SOD, MSRA-B, MSRA-10K, THUR15K) can be found:
 

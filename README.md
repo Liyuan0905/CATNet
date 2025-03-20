@@ -52,6 +52,8 @@ This work presents an innovative dual-model alternating training framework. Two 
 ## Trained Model
 
 
+Baidu disk(https://pan.baidu.com/s/1jDu-k40QcTTCjivEImV6Ag?pwd=vimv 提取码: vimv)
+
 
 ## Saliency Maps
 Results of our model on benchmark datasets(DUTS, DUT-OMRON, ECSSD, PASCAL-S, HKU-IS, SOD, MSRA-B, MSRA-10K, THUR15K) can be found:

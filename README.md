@@ -53,18 +53,18 @@ This work presents an innovative dual-model alternating training framework. Two 
 
 You can test our model on your own datasets. The pre-trained model is available for download below.
 
-Baidu disk(https://pan.baidu.com/s/1jDu-k40QcTTCjivEImV6Ag?pwd=vimv 提取码: vimv)
+Baidu disk (https://pan.baidu.com/s/1jDu-k40QcTTCjivEImV6Ag?pwd=vimv 提取码: vimv)
 
-Google drive(https://drive.google.com/drive/folders/1vIe22mc9QfK-UB866_JNWxtAfyG0GgMA?usp=drive_link)
+Google drive (https://drive.google.com/drive/folders/1vIe22mc9QfK-UB866_JNWxtAfyG0GgMA?usp=drive_link)
 
 
 
 ## Saliency Maps
 Results of our model on benchmark datasets(DUTS, DUT-OMRON, ECSSD, PASCAL-S, HKU-IS, SOD, MSRA-B, MSRA-10K, THUR15K) can be found:
 
-Baidu disk(https://pan.baidu.com/s/1IEGrpVX8J7lvhjOWeEnDGw 提取码: u2dm)
+Baidu disk (https://pan.baidu.com/s/1IEGrpVX8J7lvhjOWeEnDGw 提取码: u2dm)
 
-Google drive(https://drive.google.com/drive/folders/1vjrYfkD6nj0fDIq7c2wwbtHh1hOZg7_c?usp=drive_link)
+Google drive (https://drive.google.com/drive/folders/1vjrYfkD6nj0fDIq7c2wwbtHh1hOZg7_c?usp=drive_link)
 
 
 

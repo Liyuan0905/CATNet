@@ -51,8 +51,12 @@ This work presents an innovative dual-model alternating training framework. Two 
 
 ## Trained Model
 
+You can test our model on your own datasets. The pre-trained model is available for download below.
 
 Baidu disk(https://pan.baidu.com/s/1jDu-k40QcTTCjivEImV6Ag?pwd=vimv 提取码: vimv)
+
+Google drive(https://drive.google.com/drive/folders/1vIe22mc9QfK-UB866_JNWxtAfyG0GgMA?usp=drive_link)
+
 
 
 ## Saliency Maps

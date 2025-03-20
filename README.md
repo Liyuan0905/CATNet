@@ -2,7 +2,7 @@
 
 [Paper link](https://ieeexplore.ieee.org/document/10876394)
 
-
+![本地图片](framework.png)
 This is the PyTorch implementation for CATNet. We build it based on TEP (https://github.com/JingZhang617/EBMGSOD).
 
 
